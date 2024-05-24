@@ -1,37 +1,24 @@
 ## Hi there 👋
-<!--
-**cikalnikita/cikalnikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# My Profile
+I am Cikal, a Data Analyst with a passion for deriving valuable insights from data with experience in utilizing various techniques and tools. I believe that data is valuable asset that can aid in making better decisions. Welcome to my GitHub profile!
 
-Hello! 👋 I'm [Your Name], a Data Analyst with a passion for deriving valuable insights from data. Welcome to my GitHub profile!
+## 💻 Skills
 
-## About Me
+* Technical Skills
+  * Proficient in Microsof Office Suite (Word, Excel, and PowerPoint), Google Suite, and Canva for efficient document creation, data analysis, and visually appealing presentations.
+  * Skilled in statistical software including SPSS and Minitab for robust data analysis and interpretation.
+* Programming Language
+  * Proficient in SQL for database management and querying.
+  * Experience in Python programming, with expertise in data manipulation (Pandas), numerical computing (NumPy), and data visualization (Matplotlib).
+* Data Analysis
+  * Solid understanding of descriptive statistics, exploratory data analysis (EDA), and advanced analytical techniques such as correlation & regression analysis, and clustering.
+* Visualization
+  * Proficient in utilizing Looker Data Studio and Tableau for creating insightful and visually engaging data visualization, aiding in effective data-driven decision-maker.
 
-I'm a professional in the field of data analysis with experience in utilizing various techniques and tools to unearth insights from data. I believe that data is a valuable asset that can aid in making better decisions.
+## 📂 Projects
+* [Job Listing Analysis](google.com): conducted comprehensive of job listing in the data industry to provide actionabel recommedation for job seeker, optimizing their job search, and maximaxing salary potential.
+* [Cohort Analysis: Dataset "TheLook E-Commerce"](google.com): analyzing past customer behaviour for The Look, an online fashion store, to identify influencing customer retention and provide insights for improving customer engagement strategies.
+* [Customer Personality Analysisi](google.com): investigated customer personality traits and purchasing behavior across various channels to help a retail company understand their customer base and tailoring marketing strategy effectively.
 
-## Skills
-
-- Data Analysis
-- Data Processing
-- Data Visualization
-- Statistics
-- Machine Learning
-
-## Recent Projects
-
-Here are some recent projects I've worked on:
-
-1. [Project Name 1](link): Brief description of the project and what was accomplished.
-2. [Project Name 2](link): Brief description of the project and what was accomplished.
-3. [Project Name 3](link): Brief description of the project and what was accomplished.
-
-## Get in Touch
-
-I'm always open to discussing data analysis, collaborative projects, or anything related to the data world. If you have any questions or want to collaborate, feel free to reach out to me via:
-
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [LinkedIn Profile](link)
-
-Thanks for visiting my GitHub profile! 😊
-
+## 📨 Get in Touch
+[cikalnikita@gmail.com](mailto:cikalnikita@gmail.com) | [LinkedInd](https://www.linkedin.com/in/cikalnikita/)
