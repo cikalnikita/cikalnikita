@@ -21,4 +21,4 @@ I am Cikal, a Data Analyst with a passion for deriving valuable insights from da
 * [Customer Personality Analysisi](google.com): investigated customer personality traits and purchasing behavior across various channels to help a retail company understand their customer base and tailoring marketing strategy effectively.
 
 ## 📨 Get in Touch
-[cikalnikita@gmail.com](mailto:cikalnikita@gmail.com) | [LinkedInd](https://www.linkedin.com/in/cikalnikita/)
+[cikalnikita@gmail.com](mailto:cikalnikita@gmail.com) | [LinkedIn](https://www.linkedin.com/in/cikalnikita/)
